@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.sidebar{
+    display: inline-block;
+    position: fixed;
+    top: 0px;
+    background-color: beige;
+    width: 25%;
+    height: 100%;
+}
+.main{
+    margin-left: 25%;
+    text-align: center;
+}
+h3{
+    margin: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+span{
+    display: block;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+h1{
+    margin: 10px;
+    text-align: center;
+    font-size: 50px; 
+}
+p{
+    display: block;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px; 
+}
+img{
+    width:500px;
+}
